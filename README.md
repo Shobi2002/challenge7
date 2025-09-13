@@ -36,3 +36,4 @@ kubectl exec -it secret-vol-pod -- cat /etc/secrets/DB_PASSWORD
 
 
 
+Done By SHOBANA V
